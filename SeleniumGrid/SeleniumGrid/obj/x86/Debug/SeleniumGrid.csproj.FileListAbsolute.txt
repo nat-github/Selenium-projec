@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\SeleniumGrid.exe
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\SeleniumGrid.pdb
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.dll
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.Support.dll
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.pdb
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.xml
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.Support.pdb
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\bin\Debug\WebDriver.Support.xml
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\obj\x86\Debug\SeleniumGrid.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\obj\x86\Debug\SeleniumGrid.exe
+c:\users\admin\documents\visual studio 2010\Projects\SeleniumGrid\SeleniumGrid\obj\x86\Debug\SeleniumGrid.pdb
